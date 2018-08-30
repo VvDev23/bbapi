@@ -1,12 +1,12 @@
 server {
     listen       80;
     server_name  bot.boob.bot bot.boobbot.us;
-    return       301 https://discordapp.com/oauth2/authorize?permissions=8&client_id=285480424904327179&scope=bot;
+    return       301 https://discordapp.com/oauth2/authorize?permissions=8&client_id=484440781973618703&scope=bot;
 }
 server {
     listen       80;
     server_name  invite.boob.bot invite.boobbot.us;
-    return       301 https://discord.gg/3M4Ujhy;
+    return       301 https://discord.gg/4KrnKbA;
 }
 server {
     listen       80;
